@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Marp CLI example
+title: a Hello World
 description: Hosting Marp slide deck on the web
 theme: uncover
 transition: fade
@@ -8,69 +8,36 @@ paginate: true
 _paginate: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
+# <!--fit--> simple hello world
 
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
+just a quick test..
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![bg right 80%](https://raw.githubusercontent.com/s-light/symbol_tree_of_life/master/symbol_tree_of_life.svg)
+
+## Fantasy Worlds
+
+just dream
+
+<!-- erzähle doch mal eine Geschichte! -->
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+## Und eine Liste..
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+-   mit punkten
+-   und punkten
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+*   und punkten..
+*   mit punkten
+*   und punkten
+*   und punkten..
 
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
-
----
-
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
----
-
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :ok_hand:
-
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+<!--
+Listen
+sind
+doch super!!
+-->
